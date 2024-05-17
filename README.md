@@ -1,5 +1,7 @@
 _(Just a placeholder plan for now. Saving the idea for later.)_
 
+![image](https://github.com/McCambley/new-releases/assets/74033573/06a2ab99-63bb-433f-b047-181bfa5b0dcb)
+
 # New Releases
 
 ## Project Overview
