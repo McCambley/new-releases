@@ -1,3 +1,5 @@
+_(Just a placeholder plan for now. Saving the idea for later.)_
+
 # New Releases
 
 ## Project Overview
